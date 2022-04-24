@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bellz",
+			"Path": "C:\\Users\\Home\\Desktop\\Projects\\Basic-Game-Development\\Bellz\\Source\\Bellz.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BellzEditor",
+			"Path": "C:\\Users\\Home\\Desktop\\Projects\\Basic-Game-Development\\Bellz\\Source\\BellzEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
