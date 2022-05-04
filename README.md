@@ -2,7 +2,7 @@
 Game Development Projects - Basic Level
 
 ### -- 27 APR, Separating Repository --
-
+### -- 04 MAY, Closing Repository --
 게임 개발의 기초
 
 1. 언리얼 엔진 4 w/ C++ <게임명: Bellz> 2022년 4월 24일 ~ 2022 4월 26일
